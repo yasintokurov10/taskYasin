@@ -1,0 +1,18 @@
+table {
+  min-width: 65%;
+  margin: auto;
+}
+h2,
+p {
+  text-align: center;
+}
+
+.counter {
+  margin: 0 45%;
+  min-width: 30%;
+}
+
+.paragraph {
+  margin: 0 45%;
+  min-width: 10%;
+}
